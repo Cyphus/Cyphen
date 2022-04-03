@@ -1,6 +1,6 @@
 import torch
 import wikipedia
-import transformers
+import transform
 import streamlit as st
 from tokenizers import Tokenizer
 from transformers import pipeline, Pipeline 
